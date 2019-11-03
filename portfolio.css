@@ -72,6 +72,7 @@ body {
 .menu-button {
     padding: 50px;
     margin-top: -25px;
+    margin-left: -10px;
     border: none;
     color: var(--basic-text-color);
     background: transparent;
