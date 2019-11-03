@@ -609,6 +609,9 @@ ul {
         padding-bottom: 35px;
         display: block;
     }
+    .menu-button {
+        margin-left: -20px;
+    }
     .icons-menu {
         width: 100%;
         margin-bottom: 30px;
